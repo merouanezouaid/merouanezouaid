@@ -1,4 +1,4 @@
-## Hello World! 👋 I'm Merouane, but you can call me Kaito.
+## Hello World! I'm Merouane 👋
 
 <h3 align="center">A passionate Software Engineer and MERN Stack Web Developer from Morocco.</h3>
 
