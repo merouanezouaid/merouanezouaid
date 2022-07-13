@@ -8,6 +8,8 @@
 <p><a href="https://kaitodev.me">👨‍💻 Check out my personal website</a></p>
 <p>📝 Blog: Coming soon... </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=merouanezouaid&label=Profile%20views&color=0e75b6&style=flat" alt="merouanezouaid" /> </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
