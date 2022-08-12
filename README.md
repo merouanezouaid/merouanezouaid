@@ -10,6 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merouanezouaid&label=Profile%20views&color=0e75b6&style=flat" alt="merouanezouaid" /> </p>
 
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=merouanezouaid&theme=radical">
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
