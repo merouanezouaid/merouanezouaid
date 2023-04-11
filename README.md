@@ -6,7 +6,7 @@
 <img style="width: 100%;" src="https://user-images.githubusercontent.com/74367730/149638463-1d0fe857-6e8d-4ce3-99b8-57d04ca72db4.png" alt="banner">
 <p><a href="https://www.twitter.com/merouanezouaid"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/merouanezouaid"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/kaito.dev/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 <p><a href="https://kaitodev.me">👨‍💻 Check out my personal website</a></p>
-<p>📝 Blog: Coming soon... </p>
+<p>📝 Blog: [My Medium page](https://medium.com/@merouanezouaid) </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merouanezouaid&label=Profile%20views&color=0e75b6&style=flat" alt="merouanezouaid" /> </p>
 
