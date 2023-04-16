@@ -1,6 +1,6 @@
 ## Hello World! I'm Merouane 👋
 
-<h3 align="center">A passionate Software Engineer and MERN Stack Web Developer from Morocco.</h3>
+<h3 align="center">A passionate Software Engineer, data science student, and MERN Stack Web Developer from Morocco.</h3>
 
 
 <img style="width: 100%;" src="https://user-images.githubusercontent.com/74367730/149638463-1d0fe857-6e8d-4ce3-99b8-57d04ca72db4.png" alt="banner">
